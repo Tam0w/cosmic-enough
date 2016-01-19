@@ -1,0 +1,100 @@
+#box {
+    height: 450px;
+    width: 100%+20px;
+    background: #242424;
+    border-bottom: 2px solid rgb(4, 162, 219);
+    border-top: 2px solid rgb(4, 162, 219);
+    margin-top: 20px;
+    
+    
+}
+    
+#headers {
+    color: rgb(4, 162, 219);
+    font-family: Tahoma;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    
+    
+}
+
+.subs {
+    color: whitesmoke;
+    font-family: Tahoma;
+    text-align: center;
+    font-weight: lighter; 
+    
+}
+
+body {
+    
+    font-family: Tahoma;
+    margin: 0;
+    padding: 0;
+    background-image: url(NGRIK89.jpg)
+}
+#footer {
+    height: 150px;
+    width: 100%+20px;
+    background: #363636;
+    background: #242424;
+    background: rgba(44,44,44,1);
+    background: -moz-linear-gradient(top, rgba(44,44,44,1) 0%, rgba(44,44,44,1) 61%, rgba(58,58,58,1) 61%, rgba(58,58,58,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(44,44,44,1)), color-stop(61%, rgba(44,44,44,1)), color-stop(61%,    rgba(58,58,58,1)), color-stop(100%, rgba(58,58,58,1)));
+    background: -webkit-linear-gradient(top, rgba(44,44,44,1) 0%, rgba(44,44,44,1) 61%, rgba(58,58,58,1) 61%, rgba(58,58,58,1) 100%);
+    background: -o-linear-gradient(top, rgba(44,44,44,1) 0%, rgba(44,44,44,1) 61%, rgba(58,58,58,1) 61%, rgba(58,58,58,1) 100%);
+    background: -ms-linear-gradient(top, rgba(44,44,44,1) 0%, rgba(44,44,44,1) 61%, rgba(58,58,58,1) 61%, rgba(58,58,58,1) 100%);
+    background: linear-gradient(to bottom, rgba(44,44,44,1) 0%, rgba(44,44,44,1) 61%, rgba(58,58,58,1) 61%, rgba(58,58,58,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c2c2c', endColorstr='#3a3a3a', GradientType=0 );
+    border-bottom: 2px solid rgb(4, 162, 219);
+}
+.nav {
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 29pt;
+    text-transform: uppercase;
+    z-index: 99; 
+}
+a {
+    text-decoration: none;
+    color: rgb(22, 173, 216);
+    padding: 25px;
+    
+}
+a:hover {
+    text-decoration: none;
+    background-color: #04a2db;
+    color: azure;
+    transition: 0.5s;
+    
+}
+#logo {
+    float: right;
+    margin-right: 600px;
+    margin-top: -40px;
+    
+}
+.nav2 {
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+    font-size: 29pt;
+    text-transform: uppercase;
+    float: right;
+    display: inline-block;
+    
+}
+hr {
+    color:  rgb(4, 162, 219);
+    
+}
+p {
+    color: aliceblue;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-family: sans-serif;
+}
