@@ -32,7 +32,7 @@ body {
     font-family: Tahoma;
     margin: 0;
     padding: 0;
-    background-image: url(NGRIK89.jpg)
+    background-image: url(NGRIK89-blur.jpg)
 }
 #footer {
     height: 150px;
@@ -96,5 +96,5 @@ p {
     margin-left: 100px;
     margin-right: 100px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: Courier;
 }
